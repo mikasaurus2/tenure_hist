@@ -1,0 +1,8 @@
+[package]
+name = "tenure_hist"
+version = "0.1.0"
+authors = ["mikasaurus2"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4.13"
